@@ -111,7 +111,7 @@ const ContactUs: React.FC = () => {
             <div className="space-y-4 text-slate-600">
               <div>
                 <h4 className="font-medium text-slate-900 mb-1">Email</h4>
-                <p className="text-sm">support@compoundcalc.com</p>
+                <p className="text-sm">codewithrajiv@gmail.com</p>
               </div>
               <div>
                 <h4 className="font-medium text-slate-900 mb-1">Response Time</h4>
@@ -297,7 +297,7 @@ const ContactUs: React.FC = () => {
             <p className="text-slate-300 text-sm mb-2">
               Questions about using the calculator or understanding compound interest
             </p>
-            <p className="text-blue-400 text-sm">support@compoundcalc.com</p>
+            <p className="text-blue-400 text-sm">codewithrajiv@gmail.com</p>
           </div>
           
           <div className="text-center">
@@ -306,7 +306,7 @@ const ContactUs: React.FC = () => {
             <p className="text-slate-300 text-sm mb-2">
               Found a problem? Help us improve by reporting issues
             </p>
-            <p className="text-blue-400 text-sm">bugs@compoundcalc.com</p>
+            <p className="text-blue-400 text-sm">codewithrajiv@gmail.com</p>
           </div>
           
           <div className="text-center">
@@ -315,7 +315,7 @@ const ContactUs: React.FC = () => {
             <p className="text-slate-300 text-sm mb-2">
               Partnerships, collaborations, or business opportunities
             </p>
-            <p className="text-blue-400 text-sm">business@compoundcalc.com</p>
+            <p className="text-blue-400 text-sm">codewithrajiv@gmail.com</p>
           </div>
         </div>
       </section>
