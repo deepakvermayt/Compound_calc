@@ -301,7 +301,7 @@ const PrivacyPolicy: React.FC = () => {
               please don't hesitate to reach out.
             </p>
             <div className="space-y-2 text-slate-300">
-              <p>📧 Email: privacy@compoundcalc.com</p>
+              <p>📧 Email: codewithrajiv@gmail.com</p>
               <p>📱 Response time: Within 48 hours</p>
               <p>🌍 Available: Monday - Friday, 9 AM - 5 PM EST</p>
             </div>
@@ -313,7 +313,7 @@ const PrivacyPolicy: React.FC = () => {
               For formal data protection inquiries or to exercise your privacy rights:
             </p>
             <div className="space-y-2 text-slate-300">
-              <p>📧 Email: dpo@compoundcalc.com</p>
+              <p>📧 Email: codewithrajiv@gmail.com</p>
               <p>📋 Include: Your specific request and contact information</p>
               <p>⏱️ Response: Within 30 days as required by law</p>
             </div>
