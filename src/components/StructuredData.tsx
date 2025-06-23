@@ -6,10 +6,10 @@ const StructuredData: React.FC = () => {
     "@type": "WebSite",
     "name": "Compound Interest Calculator",
     "description": "Free online compound interest calculator for savings and investment planning. Calculate how your money grows over time with compound interest.",
-    "url": "https://www.compount.xyz/",
+    "url": "https://compount.xyz/",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://www.compount.xyz/search?q={search_term_string}",
+      "target": "https://compount.xyz/search?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   };
@@ -19,8 +19,8 @@ const StructuredData: React.FC = () => {
     "@type": "Organization",
     "name": "Compound Interest Calculator",
     "description": "Providing free financial calculators and educational resources for personal finance management.",
-    "url": "https://www.compount.xyz/",
-    "logo": "https://www.compount.xyz/logo.png",
+    "url": "https://compount.xyz/",
+    "logo": "https://compount.xyz/logo.png",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+1-555-123-4567",
@@ -35,7 +35,7 @@ const StructuredData: React.FC = () => {
     "@type": "WebApplication",
     "name": "Compound Interest Calculator",
     "description": "Calculate compound interest for your savings and investments. Free, accurate, and easy to use online calculator.",
-    "url": "https://www.compount.xyz/",
+    "url": "https://compount.xyz/",
     "applicationCategory": "FinanceApplication",
     "operatingSystem": "Web Browser",
     "offers": {
@@ -99,13 +99,13 @@ const StructuredData: React.FC = () => {
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://www.compount.xyz/"
+        "item": "https://compount.xyz/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Calculator",
-        "item": "https://www.compount.xyz/calculator"
+        "item": "https://compount.xyz/calculator"
       }
     ]
   };
@@ -115,7 +115,7 @@ const StructuredData: React.FC = () => {
     "@type": "HowTo",
     "name": "How to Use the Compound Interest Calculator",
     "description": "Step-by-step guide to using our compound interest calculator to plan your savings and investments.",
-    "image": "https://www.compount.xyz/images/calculator-guide.png",
+    "image": "https://compount.xyz/images/calculator-guide.png",
     "totalTime": "PT5M",
     "estimatedCost": {
       "@type": "MonetaryAmount",
@@ -127,25 +127,25 @@ const StructuredData: React.FC = () => {
         "@type": "HowToStep",
         "name": "Enter Your Principal Amount",
         "text": "Input the initial amount you plan to invest or save. This could be a lump sum or your starting balance.",
-        "image": "https://www.compount.xyz/images/step1.png"
+        "image": "https://compount.xyz/images/step1.png"
       },
       {
         "@type": "HowToStep",
         "name": "Set the Interest Rate",
         "text": "Enter the expected annual interest rate as a percentage. For savings accounts, this might be 1-3%. For investments, historical averages range from 7-10%.",
-        "image": "https://www.compount.xyz/images/step2.png"
+        "image": "https://compount.xyz/images/step2.png"
       },
       {
         "@type": "HowToStep",
         "name": "Choose Time Period",
         "text": "Specify how many years you plan to keep your money invested. Longer time periods show the true power of compounding.",
-        "image": "https://www.compount.xyz/images/step3.png"
+        "image": "https://compount.xyz/images/step3.png"
       },
       {
         "@type": "HowToStep",
         "name": "Select Compounding Frequency",
         "text": "Choose how often interest is calculated and added to your balance. More frequent compounding leads to higher returns.",
-        "image": "https://www.compount.xyz/images/step4.png"
+        "image": "https://compount.xyz/images/step4.png"
       }
     ]
   };

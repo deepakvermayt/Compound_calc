@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Important pages
+Allow: /calculator
+Allow: /faq
+Allow: /contact
+Allow: /privacy-policy
+Allow: /disclaimer
+
+# Sitemap
+Sitemap: https://compount.xyz/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1

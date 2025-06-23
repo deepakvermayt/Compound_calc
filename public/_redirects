@@ -1,0 +1,7 @@
+# Netlify redirects for React Router
+/*    /index.html   200
+
+# SEO-friendly redirects
+/compound-interest-calculator    /calculator    301
+/frequently-asked-questions      /faq           301
+/contact-us                      /contact       301
